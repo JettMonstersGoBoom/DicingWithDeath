@@ -6,3 +6,6 @@ follow the batch file for example of how to build it.
 
 SFX code by Jeffrey Ouellette 
 
+Play it here
+
+https://monstersgoboom.itch.io/dicingwithdeath4kb
